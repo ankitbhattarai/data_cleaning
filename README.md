@@ -16,6 +16,7 @@
           
 5. **<font color="red">Aggregration</font>**
       Data aggregation is a preprocessing task where the values of two or more objects are combined into a single object. The motivation for aggregation includes (1) reducing the size of data to be processed, (2) changing the granularity of analysis (from fine-scale to coarser-scale), and (3) improving the stability of the data.
+      Dataset used: Daily precipitation time series data for a weather station located at Detroit Metro Airport. The daily precipitation time series will be compared against its monthly values.
 
 6. **<font color="red">Sampling</font>**
   Sampling is an approach commonly used to facilitate (1) data reduction for exploratory data analysis and scaling up algorithms to big data applications and (2) quantifying uncertainties due to varying data distributions.
