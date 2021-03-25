@@ -23,3 +23,6 @@
 
 7. **<font color="red">Discretization</font>**
       Discretization is a data preprocessing step that is often used to transform a continuous-valued attribute to a categorical attribute. The example below illustrates two simple but widely-used unsupervised discretization methods (equal width and equal depth) applied to the 'Clump Thickness' attribute of the breast cancer dataset.
+
+Some of the datasets to work on:
+https://analyticsindiamag.com/10-datasets-for-data-cleaning-practice-for-beginners/
